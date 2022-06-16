@@ -1,5 +1,3 @@
 # .github
 
-These are my GitHub files ^w^
-
-Inspired by [Sindre Sorhus's](https://github.com/sindresorhus/.github)
+^w^ These are my GitHub files. Based from [@sindresorhus](https://github.com/sindresorhus/.github)
